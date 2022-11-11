@@ -221,7 +221,7 @@ public class LibraryManager {
                             System.out.println("Please your current date");
                             System.out.println("Month: ");
                             month = inp.nextInt();
-                            System.out.println("Day: ");
+                            System.out.println("Day: ");//aaaaaaaaaaa
                             day =  inp.nextInt();
                             System.out.println("Year: ");
                             year = inp.nextInt();
